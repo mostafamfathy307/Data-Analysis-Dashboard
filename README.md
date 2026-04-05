@@ -1,26 +1,33 @@
-# Data-Analysis-Dashboard
-"Supplements Store Analytics Project: Analyzed 4 years of sales data (focus on 2012) to extract actionable insights. Measured KPIs, growth &amp; margins, identified churn/retention gaps, evaluated returns &amp; regional performance. Tools: Power BI, Data Modeling, Dashboards, DAX, Data Visualization." 
+# 📊 Supplements Store Analytics Project
 
-#Supplements Store Analytics Project
+### 📌 Overview
+Analyzed 4 years of sales data (with focus on 2012) to extract actionable insights and support data-driven decision-making. The project focuses on performance analysis, customer behavior, and regional trends.
 
-#Highlights & Key Performance Indicators (KPIs)
+---
 
-Growth Trajectory: Revenue growth and profitability trends were identified.
+### 📈 Key Insights & KPIs
+- Growth Trajectory: Identified revenue growth and profitability trends over time.  
+- Gross Margin (GM): Maintained strong margins, indicating effective pricing and cost control.  
+- Average Order Value (AOV): Analyzed purchasing patterns and high-value transactions.  
+- Market Share: United States identified as the primary revenue driver.  
 
-Gross Margin (GM): Maintained healthy margins, reflecting effective cost management and pricing strategies.
+---
 
-Average Order Value (AOV): Insights on high-value product sales and purchasing patterns.
+### 🚩 Red Flags & Key Observations
+- Customer Churn & Retention: Detected gaps in customer retention and opportunities for improvement.  
+- Returns Analysis: Identified products with high return rates, indicating potential issues.  
+- Regional Performance: Highlighted underperforming regions and revenue leakage.  
 
-Market Share: United States identified as the main revenue driver.
+---
 
-Red Flags & Key Observations
+### 🛠 Tools & Technologies
+- Power BI  
+- DAX  
+- Data Modeling  
+- Dashboards  
+- Data Visualization  
 
-Customer Churn & Retention: Identified gaps in customer journey and retention opportunities.
+---
 
-Returns Analysis: Highlighted products with high returns, suggesting potential quality or fulfillment issues.
-
-Regional Performance: Noted revenue leakage in specific regions, recommending strategic interventions.
-
-#Tools & Technologies
-
-Power BI, DAX, Data Modeling, Dashboards, Data Visualization
+### 📂 Project Value
+Demonstrates skills in data analysis, KPI tracking, business insights generation, and dashboard development.
